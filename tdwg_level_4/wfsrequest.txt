@@ -1,0 +1,1 @@
+http://localhost:8080/geoserver/topp/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=topp:tdwg_level_4&maxFeatures=50&outputFormat=SHAPE-ZIP

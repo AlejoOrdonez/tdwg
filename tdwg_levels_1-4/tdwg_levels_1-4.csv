@@ -1,0 +1,160 @@
+code,name,tdwg_code,tdwg_level
+9,Antarctic,9,1
+1,Europe,1,1
+2,Africa,2,1
+3,Asia-Temperate,3,1
+4,Asia-Tropical,4,1
+5,Australasia,5,1
+6,Pacific,6,1
+7,Northern America,7,1
+8,Southern America,8,1
+10,Northern Europe,10,2
+11,Middle Europe,11,2
+12,Southwestern Europe,12,2
+13,Southeastern Europe,13,2
+14,Eastern Europe,14,2
+20,Northern Africa,20,2
+21,Macaronesia,21,2
+22,West Tropical Africa,22,2
+23,West-Central Tropical Africa,23,2
+24,Northeast Tropical Africa,24,2
+25,East Tropical Africa,25,2
+26,South Tropical Africa,26,2
+27,Southern Africa,27,2
+28,Middle Atlantic Ocean,28,2
+29,Western Indian Ocean,29,2
+30,Siberia,30,2
+31,Russian Far East,31,2
+32,Middle Asia,32,2
+33,Caucasus,33,2
+34,Western Asia,34,2
+35,Arabian Peninsula,35,2
+36,China,36,2
+37,Mongolia,37,2
+38,Eastern Asia,38,2
+40,Indian Subcontinent,40,2
+41,Indo-China,41,2
+42,Malesia,42,2
+43,Papuasia,43,2
+50,Australia,50,2
+51,New Zealand,51,2
+60,Southwestern Pacific,60,2
+61,South-Central Pacific,61,2
+62,Northwestern Pacific,62,2
+63,North-Central Pacific,63,2
+70,Subarctic America,70,2
+71,Western Canada,71,2
+72,Eastern Canada,72,2
+73,Northwestern U.S.A.,73,2
+74,North-Central U.S.A.,74,2
+75,Northeastern U.S.A.,75,2
+76,Southwestern U.S.A.,76,2
+77,South-Central U.S.A.,77,2
+78,Southeastern U.S.A.,78,2
+79,Mexico,79,2
+80,Central America,80,2
+81,Caribbean,81,2
+82,Northern South America,82,2
+83,Western South America,83,2
+84,Brazil,84,2
+85,Southern South America,85,2
+,Brazil West-Central,BZC,3
+,Brazil Northeast,BZE,3
+,Brazil Southeast,BZL,3
+,Brazil North,BZN,3
+,Brazil South,BZS,3
+,Bermuda,BER,3
+,Belgium,BGM,3
+,Bismarck Archipelago,BIS,3
+,Burkina,BKN,3
+,Belarus,BLR,3
+,Alberta,ABT,3
+,Afghanistan,AFG,3
+,Argentina Northeast,AGE,3
+,Argentina South,AGS,3
+,Argentina Northwest,AGW,3
+,Alabama,ALA,3
+,Albania,ALB,3
+,Aldabra,ALD,3
+,Algeria,ALG,3
+,Altay,ALT,3
+,Aleutian Is.,ALU,3
+,Amur,AMU,3
+,Andaman Is.,AND,3
+,Angola,ANG,3
+,Antarctica,ANT,3
+,Baltic States,BLT,3
+,Belize,BLZ,3
+,Bolivia,BOL,3
+,Borneo,BOR,3
+,Arizona,ARI,3
+,Arkansas,ARK,3
+,Aruba,ARU,3
+,Ascension,ASC,3
+,Alaska,ASK,3
+,Amsterdam-St.Paul Is.,ASP,3
+,Assam,ASS,3
+,Antipodean Is.,ATP,3
+,Austria,AUT,3
+,Azores,AZO,3
+,Bahamas,BAH,3
+,Baleares,BAL,3
+,Bangladesh,BAN,3
+,Benin,BEN,3
+,Botswana,BOT,3
+,Bouvet I.,BOU,3
+,British Columbia,BRC,3
+,Buryatiya,BRY,3
+,Bulgaria,BUL,3
+,Burundi,BUR,3
+,Cabinda,CAB,3
+,Slovakia,CZE-SK,4
+,Slovakia,CZE-SK,4
+,Alaska,ASK-OO,4
+,Qinghai,CHQ-OO,4
+,Honduras,HON-OO,4
+,Tamaulipas,MXE-TA,4
+,Nepal,NEP-OO,4
+,Peru,PER-OO,4
+,Liberia,LBR-OO,4
+,Lebanon,LBS-LB,4
+,Syria,LBS-SY,4
+,Libya,LBY-OO,4
+,Alberta,ABT-OO,4
+,Afghanistan,AFG-OO,4
+,Buenos Aires,AGE-BA,4
+,Annobón,GGI-AN,4
+,Chaco,AGE-CH,4
+,Corrientes,AGE-CN,4
+,Córdoba,AGE-CO,4
+,Argentina Distrito Federal,AGE-DF,4
+,Entre Ríos,AGE-ER,4
+,Formosa,AGE-FO,4
+,La Pampa,AGE-LP,4
+,Misiones,AGE-MI,4
+,Santa Fé,AGE-SF,4
+,Chubut,AGS-CB,4
+,Neuquén,AGS-NE,4
+,Rio Negro,AGS-RN,4
+,Santa Cruz,AGS-SC,4
+,Tierra del Fuego (Argentina),AGS-TF,4
+,Catamarca,AGW-CA,4
+,Jujuy,AGW-JU,4
+,La Rioja,AGW-LR,4
+,Mendoza,AGW-ME,4
+,Salta,AGW-SA,4
+,Andhra Pradesh,IND-AP,4
+,Bihar,IND-BI,4
+,Santiago del Estero,AGW-SE,4
+,San Juan,AGW-SJ,4
+,San Luis,AGW-SL,4
+,Tucumán,AGW-TU,4
+,Alabama,ALA-OO,4
+,Albania,ALB-OO,4
+,Aldabra,ALD-OO,4
+,Algeria,ALG-OO,4
+,Altay,ALT-OO,4
+,Aleutian Is.,ALU-OO,4
+,Amur,AMU-OO,4
+,Andaman Is.,AND-AN,4
+,Coco Is.,AND-CO,4
